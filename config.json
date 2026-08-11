@@ -60,6 +60,20 @@
       ]
     },
     {
+      "id": "problem-solving-with-python",
+      "title": "Problem Solving with Python",
+      "description": "Practice algorithmic thinking with search, counting, and list analysis problems using Python loops and conditionals.",
+      "path": "assignments/problem-solving-with-python",
+      "dueDate": "2026-10-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "building-rest-apis-with-fastapi",
       "title": "Building REST APIs with FastAPI",
       "description": "Create and test a simple REST API using FastAPI and Pydantic.",
